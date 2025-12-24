@@ -22,8 +22,3 @@ A fully responsive Todo List web application built with React.
 ## Pages
 - `/` : Active tasks
 - `/complete` : Completed tasks
-
-## Installation
-```bash
-npm install
-npm run dev
